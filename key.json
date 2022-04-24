@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tactile-octagon-298212",
+  "private_key_id": "7d548f49e8836a5029f5f5f328e6acd07e38b05e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhNErBC71vB5Wr\nH7fiYoxdfumxQC1NDTBoeFlrFF2nDb5vyqBEwRMxNKPWQzTfbQujzAlwsxOVsqcG\nzXpUug+NyRXbFmPRUd6nW2hjO3MPTmUmHNinRcQKonkJJFQcwCeFBdFeTE0m+kyX\nRjPEFPbMOQRHfX/37ZReJguwO+m66exho/ON1A90f60hezEYBtxmWNz0saSsDgLn\nLLL0QJuwUQTTIThXg7RS7+kHJuhLUDwB4qwvuMeFYouR1ua5QcNY8V5z1xYMMXHN\nr/w4HCBLnlB+nxQKWV0t979zMHChy+sM82VRFsmpK97sCZKzOEASwZX4AqMDOG11\nq+4bjzf9AgMBAAECggEAMLqsqThV2VI6EbDXjGn4BtwJC4RAOSGvNY/DA29A835/\nFDfzNWVUtos2H0zkAitZfywNZ+ArzvK8/vUTsQUgi/S0oLcnypltNOfLvtsUgr2b\nF+PagllPeeCdkXuVorH2aytu2flnIVW8IGh9l4JUw6xbr29psvcqqTOQyGWyZbHD\nvgLcmwwjdg2bovRA2cROXEE9KEMeZgOhzviPn19twYsVkYL8ymA+i9tVEoGI6ig3\n/Dg9YorSB4jxyQPgLKGsgAGsoVIgmZYfuRg+K2667OGcZjIZ036V6Rx+X+l3elcq\nhlpfs1rHJyvtlp1Hk3pnGvKG3tQLKLVKnQxLkGJaqQKBgQDwSv0wTAPm9eSaW9s1\nPhA1G7tWaiUHKyUVD9/iZptXP0DBecgaosSMGgjWavue/sgJ6GMr3tlGrpKHKglp\nKdNYYwn9ouZeE/I3FSZoCszVXy8HK40w4EIdFZ8+TBgfnD9t8MILbx4kL3b80FNI\nIddwwuKtsRkC21rPh8fFIQgHJQKBgQDv7NACyl0IJTCU9kUPiG9XlVxKFmAjwQ80\nMLeW/4edElSmI+8Qmi+mJ9qmNPOAJgAxjNPrAs4ipcXlvmlvTr4PJo1zdKMTXcsn\ngka78HTCTJZBy6cJs1i+GC9aj/hcXLoWbSWssfAnCR6r6dgSx9NHtTBVIe3F/6CT\nO0DDepqh+QKBgAm3XomHaVj7dGTxdemvOsSK/IZAAINLsVIqtCjZcUqT2jB4lijN\nkBkCLH1PEiGZt8j+xpPNjQeYo4AnqP3BnTQjvRGudpYzREYJ6uWmGiY+lQ47Kphh\nWQsIBspkFU2h6cauR4pi0dswuCT834E5LRb4KmZPlO1SpVdi7CcCcOqpAoGAEZzV\nzE6ks7NfNKA7g59lZQ2O39Vyq01B23f0Ej6h6vLsieG7bAGVm+HzGB5s/axMeVa4\nO9lR3pNCytHGlag3JY+T9LTMP+CzyCu1G5jUSWsr4JqdoYWr7xCBcWl+NvGLq5fJ\nmzrYwVTXDpG1DfPjW7E+YhGCjfVtCUHhSDhY36kCgYEA584rXmZKbIBcb2Wz6C8C\nozkdVg5wPWOcapGyS27eMiJ78CWApQrr0cPf0+xk/UksAAY+0Y3QCfYOB7tcG+hX\nGsrkcnt+BuIQ5sxum4jW1RRZAUXivCUnpxGlC+Tot8ZgiafuvsMDXbOoYTOq3Hxh\nCE+FCkNoe6VqsSRA76Aggxc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore@tactile-octagon-298212.iam.gserviceaccount.com",
+  "client_id": "106882634932048425737",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore%40tactile-octagon-298212.iam.gserviceaccount.com"
+}
